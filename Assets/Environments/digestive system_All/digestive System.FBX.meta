@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 68607193ea58273429fd2e5fcdb515cc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Esophagus
+    100004: Esophagus 1
+    100006: Esophagus 2
+    100008: gallbladder
+    100010: gallbladder 1
+    100012: gallbladder 2
+    100014: large intestine
+    100016: large intestine 1
+    100018: large intestine 2
+    100020: large intestine 3
+    100022: large intestine001
+    100024: liver
+    100026: liver 1
+    100028: liver 2
+    100030: pancreas
+    100032: pancreas 1
+    100034: small intestine
+    100036: small intestine 1
+    100038: small intestine 2
+    100040: stomach
+    100042: stomach 1
+    100044: stomach 2
+    100046: stomach002
+    100048: throat
+    100050: throat 1
+    100052: throat 2
+    400000: //RootNode
+    400002: Esophagus
+    400004: Esophagus 1
+    400006: Esophagus 2
+    400008: gallbladder
+    400010: gallbladder 1
+    400012: gallbladder 2
+    400014: large intestine
+    400016: large intestine 1
+    400018: large intestine 2
+    400020: large intestine 3
+    400022: large intestine001
+    400024: liver
+    400026: liver 1
+    400028: liver 2
+    400030: pancreas
+    400032: pancreas 1
+    400034: small intestine
+    400036: small intestine 1
+    400038: small intestine 2
+    400040: stomach
+    400042: stomach 1
+    400044: stomach 2
+    400046: stomach002
+    400048: throat
+    400050: throat 1
+    400052: throat 2
+    2100000: 'Material #0'
+    2100002: 02 - Default
+    2100004: 03 - Default
+    2300000: Esophagus
+    2300002: Esophagus 1
+    2300004: Esophagus 2
+    2300006: gallbladder
+    2300008: gallbladder 1
+    2300010: gallbladder 2
+    2300012: large intestine
+    2300014: large intestine 1
+    2300016: large intestine 2
+    2300018: large intestine 3
+    2300020: large intestine001
+    2300022: liver
+    2300024: liver 1
+    2300026: liver 2
+    2300028: pancreas
+    2300030: pancreas 1
+    2300032: small intestine
+    2300034: small intestine 1
+    2300036: small intestine 2
+    2300038: stomach
+    2300040: stomach 1
+    2300042: stomach 2
+    2300044: stomach002
+    2300046: throat
+    2300048: throat 1
+    2300050: throat 2
+    3300000: Esophagus
+    3300002: Esophagus 1
+    3300004: Esophagus 2
+    3300006: gallbladder
+    3300008: gallbladder 1
+    3300010: gallbladder 2
+    3300012: large intestine
+    3300014: large intestine 1
+    3300016: large intestine 2
+    3300018: large intestine 3
+    3300020: large intestine001
+    3300022: liver
+    3300024: liver 1
+    3300026: liver 2
+    3300028: pancreas
+    3300030: pancreas 1
+    3300032: small intestine
+    3300034: small intestine 1
+    3300036: small intestine 2
+    3300038: stomach
+    3300040: stomach 1
+    3300042: stomach 2
+    3300044: stomach002
+    3300046: throat
+    3300048: throat 1
+    3300050: throat 2
+    4300000: large intestine
+    4300002: liver
+    4300004: Esophagus
+    4300006: stomach
+    4300008: gallbladder
+    4300010: small intestine
+    4300012: throat
+    4300014: pancreas
+    4300016: large intestine
+    4300018: large intestine001
+    4300020: stomach
+    4300022: stomach
+    4300024: Esophagus
+    4300026: Esophagus
+    4300028: liver
+    4300030: liver
+    4300032: throat
+    4300034: throat
+    4300036: gallbladder
+    4300038: gallbladder
+    4300040: small intestine
+    4300042: small intestine
+    4300044: large intestine
+    4300046: large intestine
+    4300048: stomach002
+    4300050: pancreas
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

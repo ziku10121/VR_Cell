@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 23c5728ffe45fbc44a3c83370ba11123
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: praktika-t-04
+    100002: praktika-t-04_01
+    100004: praktika-t-04_03
+    100006: praktika-t-04_04
+    100008: praktika-t-04_05
+    100010: praktika-t-04_06
+    100012: praktika-t-04_07
+    100014: praktika-t-04_08
+    100016: praktika-t-04_09
+    100018: praktika-t-04_10
+    100020: praktika-t-04_11
+    100022: praktika-t-04_12
+    100024: praktika-t-04_13
+    100026: praktika-t-04_14
+    100028: praktika-t-04_15
+    100030: praktika-t-04_16
+    100032: praktika-t-04_17
+    100034: praktika-t-04_18
+    100036: praktika-t-04_19
+    100038: praktika-t-04_20
+    100040: praktika-t-04_21
+    100042: praktika-t-04_22
+    100044: praktika-t-04_23
+    100046: praktika-t-04_24
+    100048: praktika-t-04_25
+    100050: praktika-t-04_26
+    100052: praktika-t-04_27
+    100054: praktika-t-04_28
+    100056: praktika-t-04_29
+    100058: //RootNode
+    100060: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    100062: "\xD7\xFE\xD7\xFC"
+    400000: praktika-t-04
+    400002: praktika-t-04_01
+    400004: praktika-t-04_03
+    400006: praktika-t-04_04
+    400008: praktika-t-04_05
+    400010: praktika-t-04_06
+    400012: praktika-t-04_07
+    400014: praktika-t-04_08
+    400016: praktika-t-04_09
+    400018: praktika-t-04_10
+    400020: praktika-t-04_11
+    400022: praktika-t-04_12
+    400024: praktika-t-04_13
+    400026: praktika-t-04_14
+    400028: praktika-t-04_15
+    400030: praktika-t-04_16
+    400032: praktika-t-04_17
+    400034: praktika-t-04_18
+    400036: praktika-t-04_19
+    400038: praktika-t-04_20
+    400040: praktika-t-04_21
+    400042: praktika-t-04_22
+    400044: praktika-t-04_23
+    400046: praktika-t-04_24
+    400048: praktika-t-04_25
+    400050: praktika-t-04_26
+    400052: praktika-t-04_27
+    400054: praktika-t-04_28
+    400056: praktika-t-04_29
+    400058: //RootNode
+    400060: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    400062: "\xD7\xFE\xD7\xFC"
+    2100000: 'Material #1716'
+    2100002: 'Material #1722'
+    2100004: 'Material #1717'
+    2100006: 'Material #1718'
+    2100008: 'Material #1719'
+    2100010: 'Material #1721'
+    2100012: 'Material #1720'
+    2100014: 'Material #1723'
+    2100016: 'Material #1724'
+    2300000: praktika-t-04_01
+    2300002: praktika-t-04_03
+    2300004: praktika-t-04_04
+    2300006: praktika-t-04_05
+    2300008: praktika-t-04_06
+    2300010: praktika-t-04_07
+    2300012: praktika-t-04_09
+    2300014: praktika-t-04_10
+    2300016: praktika-t-04_11
+    2300018: praktika-t-04_12
+    2300020: praktika-t-04_13
+    2300022: praktika-t-04_14
+    2300024: praktika-t-04_15
+    2300026: praktika-t-04_16
+    2300028: praktika-t-04_18
+    2300030: praktika-t-04_19
+    2300032: praktika-t-04_20
+    2300034: praktika-t-04_21
+    2300036: praktika-t-04_22
+    2300038: praktika-t-04_23
+    2300040: praktika-t-04_24
+    2300042: praktika-t-04_25
+    2300044: praktika-t-04_26
+    2300046: praktika-t-04_27
+    2300048: praktika-t-04_28
+    2300050: praktika-t-04_29
+    3300000: praktika-t-04_01
+    3300002: praktika-t-04_03
+    3300004: praktika-t-04_04
+    3300006: praktika-t-04_05
+    3300008: praktika-t-04_06
+    3300010: praktika-t-04_07
+    3300012: praktika-t-04_09
+    3300014: praktika-t-04_10
+    3300016: praktika-t-04_11
+    3300018: praktika-t-04_12
+    3300020: praktika-t-04_13
+    3300022: praktika-t-04_14
+    3300024: praktika-t-04_15
+    3300026: praktika-t-04_16
+    3300028: praktika-t-04_18
+    3300030: praktika-t-04_19
+    3300032: praktika-t-04_20
+    3300034: praktika-t-04_21
+    3300036: praktika-t-04_22
+    3300038: praktika-t-04_23
+    3300040: praktika-t-04_24
+    3300042: praktika-t-04_25
+    3300044: praktika-t-04_26
+    3300046: praktika-t-04_27
+    3300048: praktika-t-04_28
+    3300050: praktika-t-04_29
+    4300000: praktika-t-04_03
+    4300002: praktika-t-04_01
+    4300004: praktika-t-04_04
+    4300006: praktika-t-04_05
+    4300008: praktika-t-04_06
+    4300010: praktika-t-04_07
+    4300012: praktika-t-04_09
+    4300014: praktika-t-04_10
+    4300016: praktika-t-04_11
+    4300018: praktika-t-04_12
+    4300020: praktika-t-04_13
+    4300022: praktika-t-04_14
+    4300024: praktika-t-04_15
+    4300026: praktika-t-04_16
+    4300028: praktika-t-04_18
+    4300030: praktika-t-04_19
+    4300032: praktika-t-04_20
+    4300034: praktika-t-04_21
+    4300036: praktika-t-04_22
+    4300038: praktika-t-04_23
+    4300040: praktika-t-04_24
+    4300042: praktika-t-04_25
+    4300044: praktika-t-04_26
+    4300046: praktika-t-04_27
+    4300048: praktika-t-04_28
+    4300050: praktika-t-04_29
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

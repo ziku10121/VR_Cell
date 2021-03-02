@@ -1,0 +1,17 @@
+China Lantern Pack 1
+
+Thanks for downloading. I hope this model is of good use to you. I have tried to keep the map files small, but the wires texture is fairly large due to the organic nature of the wires they just didn't seem to work as a tiled texture and started breaking up and aliasing into pixels at lower res.
+
+If high detail work is required then maybe this isn't the model for you.
+
+The pivot is placed outside and above the object to easily provide a good "swinging in the wind" animation if need be.
+
+The light cone does not render correctly in mental ray, as can be seen in the promotional image "cl_promo04.jpg", so if you are using this renderer please use the cone-less version of the chinese lantern.
+
+Incidentally this model is my first to be shared and was completed on chinese new year. I would appreciate any feedback good or bad on how to improve the usability of my next model package.
+
+Thanks
+
+Happy New Year!
+
+Haister : )
